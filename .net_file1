@@ -1,0 +1,4 @@
+<ContentWithTargetPath Include="lib\some_file.dat">
+  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+  <TargetPath>some_file.dat</TargetPath>
+</ContentWithTargetPath>
